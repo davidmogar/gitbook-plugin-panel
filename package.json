@@ -8,6 +8,10 @@
   "engines": {
     "gitbook": ">2.5.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidmogar/gitbook-plugin-panel.git"
+  },
   "author": {
     "name": "David Moreno-García",
     "email": "david.mogar@gmail.com"
